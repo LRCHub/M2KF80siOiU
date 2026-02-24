@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "25歳",
+  "base_artist": "the paddles",
+  "createdAt": "2026-02-24T16:38:27.476754Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "25歳",
+      "artist": "the paddles",
+      "has_synced": false,
+      "path": "select/pl_01_25歳_the_paddles.txt"
+    }
+  ]
+}
